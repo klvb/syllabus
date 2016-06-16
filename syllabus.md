@@ -26,7 +26,7 @@
 * <span style = 'color:green;'>√</span> Pull Changes for Branch
 * <span style = 'color:green;'>√</span> Add Changes
 * <span style = 'color:green;'>√</span> Commit Changes
-* <span style = 'color:red;'>»</span> Push Changes
+* <span style = 'color:green;'>√</span> Push Changes
 * <span style = 'color:green;'>√</span> Add new Remote repo
 * <span style = 'color:green;'>√</span> Fetch Remote changes
 * <span style = 'color:red;'>»</span> Add SSH Key
